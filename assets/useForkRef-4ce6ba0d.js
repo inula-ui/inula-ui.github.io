@@ -1,1 +1,0 @@
-import{o as i,l as t}from"./index-f6f0aeca.js";function u(o,n){t.isFunction(o)?o(n):t.isObject(o)&&"current"in o&&(o.current=n)}function r(...o){return i.useCallback(n=>{o.forEach(s=>{u(s,n)})},[...o])}export{r as u};
