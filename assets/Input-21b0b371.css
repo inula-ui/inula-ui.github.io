@@ -1,0 +1,1 @@
+#InputBasicDemo .i-input,#InputAffixDemo .i-input,#InputClearableDemo .i-input,#InputPasswordDemo .i-input,#InputNumberDemo .i-input,#InputSizeDemo .i-input{width:240px}#InputComposeDemo .i-compose{width:320px}#InputComposeDemo .i-input{flex:1 0 0;overflow:hidden}
