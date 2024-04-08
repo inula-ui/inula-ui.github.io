@@ -1,1 +1,0 @@
-import{e as s,l as e}from"./index-85e8a7cd.js";function r(t){s.useEffect(()=>t(),[])}function n(t,f="top"){let o=0;for(;!e.isNull(t);)o+=t[f==="top"?"offsetTop":"offsetLeft"],t=t.offsetParent;return o}export{n as g,r as u};

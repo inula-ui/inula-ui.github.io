@@ -1,1 +1,0 @@
-import{j as i,B as t}from"./index-85e8a7cd.js";import{A as o}from"./Affix-505e05c7.js";import"./getOffsetToRoot-2a7465a0.js";import"./toPx-60ecf067.js";function n(){return i("div",{style:{height:"500vh",padding:"100px 0 0 40px"},children:i(o,{top:20,children:i(t,{children:"Top Affix"})})})}export{n as default};
